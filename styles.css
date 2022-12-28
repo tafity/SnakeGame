@@ -1,0 +1,9 @@
+body {
+    font-family: 'Rubik Vinyl', Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: darkgreen;
+} 
+canvas {
+    display: block;
+    margin: 0 auto;
+}
